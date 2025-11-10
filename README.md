@@ -94,6 +94,12 @@ Contest performance chart
 
 Provides an overview of the mentee’s recent activity
 
+<img width="1166" height="730" alt="Screenshot 2025-11-10 185009" src="https://github.com/user-attachments/assets/a71d2f69-8531-4e80-815d-5adddd23f43b" />
+<img width="1320" height="576" alt="Screenshot 2025-11-10 185059" src="https://github.com/user-attachments/assets/7868ef03-1a4d-49be-8ad7-6d9b7c127a0b" />
+<img width="665" height="532" alt="Screenshot 2025-11-10 185419" src="https://github.com/user-attachments/assets/e857f3d3-bb1e-4a45-803a-6ad7cae4fe34" />
+
+
+
 💡 Future Enhancements
 
 Integration with Codeforces API
